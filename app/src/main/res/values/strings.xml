@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Small Basket</string>
+    <string name="place_order">Place Order</string>
+    <string name="enter_your_feedback">Enter your feedback...</string>
+    <string name="submit">submit</string>
+    <string name="my_orders">My Orders</string>
+</resources>
